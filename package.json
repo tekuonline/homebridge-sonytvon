@@ -21,5 +21,9 @@
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/tekuonline/homebridge-sonytvon/issues"
+  },
+  "homepage": "https://github.com/tekuonline/homebridge-sonytvon#readme"
 }

@@ -1,4 +1,4 @@
-# Turn on Sony TV plugin for Homebridge
+# Turn on Sony TV plugin for Homebridge (beta)
 ### Turn your Sony Tv on through Siri
 
 ###### Installing
@@ -12,11 +12,11 @@ npm install -g homebridge-sonytvon
 
 To make Homebridge aware of the new plugin, you will have to add it to your configuration usually found in `.homebridge/config.json`. Somewhere inside that file you should see a key named `accessories`. This is where you can add your tv as shown here:
 
- ```json
+
 "accessories": [
     {
-      "accessory": “Sony”,
-      "name": “Living Room TV",
+      "accessory": "Sony",
+      "name": "Living Room TV",
       "mac": "<mac-address>",
       "ip": "10.0.1.23"
     } 

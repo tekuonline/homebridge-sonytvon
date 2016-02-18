@@ -1,6 +1,6 @@
 {
   "name": "homebridge-sonytvon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Turn on sony tv plugin for Homebridge: https://github.com/nfarina/homebridge",
   "main": "index.js",
   "scripts": {
